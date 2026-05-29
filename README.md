@@ -7,6 +7,13 @@ This demo is intended to illustrate the possibilties of SLMs on QC6490 based dev
 <img width="1378" height="1145" alt="image" src="https://github.com/user-attachments/assets/2a7494b8-80cf-4182-a9cc-13e0aae333b8" />
 
 
+After the FOMO-AD model triggers on a threshold the reult can passed to be analysed by the SLM for the operator:
+
+<img width="1378" height="1145" alt="image" src="https://github.com/user-attachments/assets/697e47c4-973e-4ea7-bab7-6d99ccbf1913" />
+
+This cascading can further be enhanced and extened to [VLMs](https://www.edgeimpulse.com/blog/coming-soon-in-edge-ai-model-cascading-with-vlms/)
+
+
 Demo stack for the OnLogic FR101 / Qualcomm QCS6490 webinar.
 
 Flow:
