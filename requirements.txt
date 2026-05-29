@@ -1,0 +1,7 @@
+flask
+requests
+opencv-python-headless
+numpy
+pillow
+edge_impulse_linux
+PyAudio

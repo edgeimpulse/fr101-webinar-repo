@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.log
+*.eim
+*.gguf
+*.jpg
+*.jpeg
+*.png
+!.gitkeep
+qairt-runtime/
+tmp/
+.venv/
+.DS_Store
