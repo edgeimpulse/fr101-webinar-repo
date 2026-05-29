@@ -12,8 +12,6 @@ Razer Kiyo camera
   -> local Qwen 0.5B / 500M operator note
 ```
 
-This repo deliberately avoids Maker Faire, OctoPrint, and spaghetti-detector content. It is focused on the FR101 industrial edge AI rightsizing demo.
-
 ## Recommended live path
 
 Use CPU `.eim` + local Qwen for the stable demo:
