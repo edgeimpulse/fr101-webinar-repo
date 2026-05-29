@@ -1,5 +1,9 @@
 # FR101 Industrial Edge AI Webinar Demo
 
+
+<img width="1378" height="1145" alt="image" src="https://github.com/user-attachments/assets/2a7494b8-80cf-4182-a9cc-13e0aae333b8" />
+
+
 Demo stack for the OnLogic FR101 / Qualcomm QCS6490 webinar.
 
 Flow:
