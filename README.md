@@ -13,6 +13,8 @@ After the FOMO-AD model triggers on a threshold the reult can passed to be analy
 
 This cascading can further be enhanced and extened to [VLMs](https://www.edgeimpulse.com/blog/coming-soon-in-edge-ai-model-cascading-with-vlms/)
 
+<img width="2056" height="1145" alt="image" src="https://github.com/user-attachments/assets/b0437eb4-9ae5-484d-8a7a-167eadaacbba" />
+
 
 Demo stack for the OnLogic FR101 / Qualcomm QCS6490 webinar.
 
