@@ -15,6 +15,12 @@ This cascading can further be enhanced and extened to [VLMs](https://www.edgeimp
 
 <img width="2056" height="1145" alt="image" src="https://github.com/user-attachments/assets/b0437eb4-9ae5-484d-8a7a-167eadaacbba" />
 
+Telegram interaction 
+
+<img width="1080" height="2640" alt="image" src="https://github.com/user-attachments/assets/3be4786c-f1aa-464b-a6e0-5f2a2bec0d9f" />
+<img width="1080" height="2640" alt="image" src="https://github.com/user-attachments/assets/265b9f46-a7db-4550-bd48-26c55d21747e" />
+<img width="1080" height="2640" alt="image" src="https://github.com/user-attachments/assets/7611db78-247e-48de-abcc-746b7a68200f" />
+
 
 Demo stack for the OnLogic FR101 / Qualcomm QCS6490 webinar.
 
