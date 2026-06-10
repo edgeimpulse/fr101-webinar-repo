@@ -28,7 +28,7 @@ USB Camera
   -> Telegram / CLI / OpenCode operator control
 
 
-<img width="2000" height="2633" alt="Qq6aevFxXeuAsNc_ONLOGIC" src="https://github.com/user-attachments/assets/1692562e-8c40-4b79-adae-7898ce310ab0" />
+<img width="500" height="500" alt="Qq6aevFxXeuAsNc_ONLOGIC" src="https://github.com/user-attachments/assets/1692562e-8c40-4b79-adae-7898ce310ab0" />
 
 
 
