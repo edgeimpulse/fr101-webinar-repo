@@ -14,7 +14,7 @@ All core inference runs locally on the FR101. Telegram is only an operator messa
 
 
 ## Architecture
-<img width="1536" height="1600" alt="image" src="https://github.com/user-attachments/assets/67200990-c80b-4767-8e31-0376bf8e8af4" />
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/67200990-c80b-4767-8e31-0376bf8e8af4" />
 
 USB Camera
   -> Edge Impulse INT8 QNN FOMO-AD model
