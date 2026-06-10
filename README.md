@@ -131,3 +131,14 @@ ldd models/fomo_ad_qnn.eim | grep "not found" || true
 ```
 
 If the QNN model initializes but `classify()` returns error `-3`, use CPU as the live fallback and treat QNN as runtime-validation evidence.
+
+
+
+
+## What is [edge impulse](edgeimpulse.com)?
+<img width="960" height="540" alt="Intro" src="https://github.com/user-attachments/assets/8b7b68d3-a16c-4e83-8ec2-84363f1873bb" />
+<img width="960" height="540" alt="Intro (1)" src="https://github.com/user-attachments/assets/6fe6fbb8-a974-43ea-b22d-42c91be368a3" />
+<img width="960" height="540" alt="Intro (2)" src="https://github.com/user-attachments/assets/1f2f604f-38e1-4496-b6f7-af77f67a461d" />
+<img width="960" height="540" alt="Intro (3)" src="https://github.com/user-attachments/assets/69991fd2-8a64-477a-bdd8-e9b55631a876" />
+
+
