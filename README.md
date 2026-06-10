@@ -23,8 +23,8 @@ USB Camera
   -> repeated threshold confirmation
   -> FR101 GPIO / DIO output
   -> 24 V stack light maintenance cue
-  -> Qwen 0.5B local SLM operator note
-  -> optional SmolVLM2 visual inspection summary
+  -> [Qwen 0.5B](https://docs.edgeimpulse.com/projects/expert-network/integrating-slms-on-linux#offline-slms-for-edge-ai-development-part-1-direct-inference-with-a-qwen-lora-adapter) local SLM operator note
+  -> optional [SmolVLM2](https://huggingface.co/HuggingFaceTB/SmolVLM2-500M-Video-Instruct) visual inspection summary
   -> Telegram / CLI / OpenCode operator control
 
 ## QNN Low latency model - always on
