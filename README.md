@@ -66,6 +66,10 @@ models/fomo_ad_qnn.eim
 llm/qwen/qwen2.5-0.5b-instruct-q4_k_m.gguf
 ```
 
+## ENABLE GPIO:
+
+export FR101_ALLOW_LIGHT_CONTROL=true
+
 ## Camera
 
 The Razer Kiyo has appeared as `/dev/video2` on the FR101. Check with:
