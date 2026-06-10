@@ -28,6 +28,7 @@ USB Camera
   -> Telegram / CLI / OpenCode operator control
 
 ## QNN Low latency model - always on
+
 <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/03f6700c-0769-4bec-9dc5-e3f10af5516b" />
 
 
