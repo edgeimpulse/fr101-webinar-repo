@@ -1,7 +1,7 @@
 # FR101 Industrial Edge AI Webinar Demo
 
 
-This demo is intended to illustrate the possibilties of SLMs on QC6490 based devices running in combination with accelerated Edge Impulse models, specifically here we are showcasing the initial [FOMO-AD GMM based Crack detection project ](https://docs.edgeimpulse.com/studio/projects/learning-blocks/blocks/visual-anomaly-detection-fomo-ad). The demo is tested on  onlogic FR101 but can be run on any 6490 based device locally or on [Device Cloud](https://docs.edgeimpulse.com/tutorials/topics/inference/run-qualcomm-device-cloud#run-on-qualcomm-device-cloud)
+This demo is intended to illustrate the possibilties of SLMs on QC6490 based devices running in combination with accelerated Edge Impulse models, specifically here we are showcasing the initial [FOMO-AD GMM based](https://docs.edgeimpulse.com/studio/projects/learning-blocks/blocks/visual-anomaly-detection-fomo-ad) Public project available [here](https://studio.edgeimpulse.com/studio/745013). The demo is tested on  onlogic FR101 but can be run on any 6490 based device locally or on [Device Cloud](https://docs.edgeimpulse.com/tutorials/topics/inference/run-qualcomm-device-cloud#run-on-qualcomm-device-cloud)
 
 
 ## Architecture
