@@ -4,9 +4,28 @@
 This demo is intended to illustrate the possibilties of SLMs on QC6490 based devices running in combination with accelerated Edge Impulse models, specifically here we are showcasing the initial [FOMO-AD GMM based](https://docs.edgeimpulse.com/studio/projects/learning-blocks/blocks/visual-anomaly-detection-fomo-ad) Public project available [here](https://studio.edgeimpulse.com/studio/745013). The demo is tested on  onlogic FR101 but can be run on any 6490 based device locally or on [Device Cloud](https://docs.edgeimpulse.com/tutorials/topics/inference/run-qualcomm-device-cloud#run-on-qualcomm-device-cloud)
 
 
+The point of the demo is not only that a model can run on edge hardware. It shows how a practical factory-floor system separates the work:
+the vision model runs continuously for low-latency inspection
+the SLM and VLM run only when triggered
+the agentic layer calls bounded tools for status, thresholds, snapshots, notes, VLM summaries and light control
+the operator stays in the loop through web UI, Telegram, CLI or MCP/OpenCode
+The 24 V stack light is used as a simple visual maintenance cue. It turns model output into a physical signal that an operator can see and act on.
+All core inference runs locally on the FR101. Telegram is only an operator messaging interface; no cloud LLM inference is required for the demo.
+
+
 ## Architecture
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/67200990-c80b-4767-8e31-0376bf8e8af4" />
 
+USB Camera
+  -> Edge Impulse INT8 QNN FOMO-AD model
+  -> Qualcomm NPU / DSP acceleration
+  -> live anomaly heatmap
+  -> repeated threshold confirmation
+  -> FR101 GPIO / DIO output
+  -> 24 V stack light maintenance cue
+  -> Qwen 0.5B local SLM operator note
+  -> optional SmolVLM2 visual inspection summary
+  -> Telegram / CLI / OpenCode operator control
 
 ## QNN Low latency model - always on
 <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/03f6700c-0769-4bec-9dc5-e3f10af5516b" />
