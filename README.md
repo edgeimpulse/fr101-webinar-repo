@@ -4,8 +4,12 @@
 This demo is intended to illustrate the possibilties of SLMs on QC6490 based devices running in combination with accelerated Edge Impulse models, specifically here we are showcasing the initial [FOMO-AD GMM based Crack detection project ](https://docs.edgeimpulse.com/studio/projects/learning-blocks/blocks/visual-anomaly-detection-fomo-ad). The demo is tested on  onlogic FR101 but can be run on any 6490 based device locally or on [Device Cloud](https://docs.edgeimpulse.com/tutorials/topics/inference/run-qualcomm-device-cloud#run-on-qualcomm-device-cloud)
 
 
+## Architecture
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/67200990-c80b-4767-8e31-0376bf8e8af4" />
 
+
+## QNN Low latency model - always on
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/03f6700c-0769-4bec-9dc5-e3f10af5516b" />
 
 
 <img width="1378" height="1145" alt="image" src="https://github.com/user-attachments/assets/2a7494b8-80cf-4182-a9cc-13e0aae333b8" />
