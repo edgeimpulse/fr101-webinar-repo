@@ -27,6 +27,11 @@ USB Camera
   -> optional [SmolVLM2](https://huggingface.co/HuggingFaceTB/SmolVLM2-500M-Video-Instruct) visual inspection summary
   -> Telegram / CLI / OpenCode operator control
 
+
+<img width="2000" height="2633" alt="Qq6aevFxXeuAsNc_ONLOGIC" src="https://github.com/user-attachments/assets/1692562e-8c40-4b79-adae-7898ce310ab0" />
+
+
+
 ## QNN Low latency model - always on
 
 <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/03f6700c-0769-4bec-9dc5-e3f10af5516b" />
