@@ -36,13 +36,9 @@ USB Camera
 
 <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/03f6700c-0769-4bec-9dc5-e3f10af5516b" />
 
-
-<img width="1378" height="1145" alt="image" src="https://github.com/user-attachments/assets/2a7494b8-80cf-4182-a9cc-13e0aae333b8" />
-
-
 After the FOMO-AD model triggers on a threshold the reult can passed to be analysed by the SLM for the operator:
 
-<img width="1378" height="1145" alt="image" src="https://github.com/user-attachments/assets/697e47c4-973e-4ea7-bab7-6d99ccbf1913" />
+<img width="1080" height="2640" alt="image" src="https://github.com/user-attachments/assets/17c16e89-a644-40dd-b68e-66e12a27a3e8" />
 
 This cascading can further be enhanced and extened to [VLMs](https://www.edgeimpulse.com/blog/coming-soon-in-edge-ai-model-cascading-with-vlms/)
 
